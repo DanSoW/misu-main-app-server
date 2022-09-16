@@ -1,0 +1,7 @@
+.env
+schema
+public
+logs
+docs
+config/config.yml
+Makefile
